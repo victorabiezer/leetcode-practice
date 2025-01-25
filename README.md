@@ -10,14 +10,5 @@ This repository contains my solutions to LeetCode problems. Each solution is cat
 
 ## Problem Categories
 
-### Arrays (EXAMPLE)
-- [Two Sum](Arrays/two_sum.cpp)
-
-### Strings (EXAMPLE)
-- [Valid Anagram](Strings/valid_anagram.cpp)
-
-### Dynamic Programming (EXAMPLE)
-- *Coming Soon*
-
-### Trees and Graphs (EXAMPLE)
-- *Coming Soon*
+### Basic
+- [Sum of Two Integers](Basic/sum_of_two_integers.cpp)
